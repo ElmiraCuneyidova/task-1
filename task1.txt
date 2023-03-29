@@ -1,0 +1,108 @@
+using System;
+using System.Dynamic;
+namespace tasks
+{
+    internal class program
+    {
+        static void Main(string[] args)
+        {
+
+            //TASK_1 C# dilində int, double, string, bool və char daxil olmaqla müxtəlif
+            //dəyişənlərini yaradan proqram yazın.
+
+            //int num = 5;
+            //double num2 = 67775947659.375467d;
+            //string text = "lavinia";
+            //bool female = true;
+            //char letter = 'A';
+            //Console.WriteLine(num);
+            //Console.WriteLine(num2);
+            //Console.WriteLine(text);
+            //Console.WriteLine(female);
+            //Console.WriteLine(letter);
+
+
+            //TASK-2 “int” dəyişən tipini float tipinə çevirən proqram yaradın.
+
+            //int num3 = 962;
+            //float num4 = (float)num3;
+            //Console.WriteLine(num3);
+
+
+            //TASK_3 İstifadəçidən ədəd qəbul edən proqram yazın və sonra rəqəmin müsbət
+            //və ya mənfi və ya sıfır olduğunu müəyyən etmək üçün if-else şərtindən
+            //istifadə edin.
+
+            //Console.WriteLine("Bir eded daxil edin ");
+            //int number = int.Parse(Console.ReadLine());
+            //if (number > 0)
+            //{
+            //    Console.WriteLine("Eded musbetdir");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Ede menfidir");
+            //}
+
+
+            //TASK_4 İstifadəçinin yaşını qəbul edən proqram yaradın və sonra onun səs
+            //vermək üçün kifayət qədər yaşlı olub-olmadığını müəyyən etmək üçün
+            //if-else şərtindən istifadə edin.
+
+            //Console.WriteLine("Enter you age");
+            //int age = int.Parse(Console.ReadLine());
+            //if (age > 51)
+            //{
+            //    Console.WriteLine("old");
+            //    Console.Beep(4500,4500);
+            //}
+            //else if (age<18) 
+            //{
+
+            //  Console.WriteLine("child");
+            //    Console.Beep(4500, 4500);
+            //}
+            //else
+            //{
+            //    Console.WriteLine("younger");
+            //}
+
+
+            //TASK_5 1-dən 100-a qədər cüt rəqəmləri konsolda çap etmək üçün for-loop
+            //istifadə edən proqram yaradın.
+           
+
+
+            //for (int num13 = 2; num13 <=100; num13 =num13 +2)
+            //{
+            //    Console.WriteLine(num13);
+            //}
+
+
+            //TASK_6 *İstifadəçidən ədəd qəbul edən proqram yazın və sonra 10-a qədər bu
+            //rəqəmin vurma cədvəlini çap etmək üçün for-loop istifadə edin.
+            //sehvim hardadi?
+
+
+            //Console.WriteLine("Bir eded daxil edin ");
+            //int numb = int.Parse(Console.ReadLine());
+
+
+
+
+            //TASK_7 İstifadəçidən parol qəbul edən proqram yazın və sonra düzgün parol
+            //daxil edilənə qədər parol istəməyə davam etmək üçün while-loop
+            //istifadə edin.
+
+
+          
+
+
+
+
+        }
+
+
+
+    }
+}
